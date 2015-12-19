@@ -5,6 +5,10 @@ Spring-Boot based PostgreSQL 9.4 JSON Type Handle Example
 Spring Boot + SpringDataJPA + Hibernate + PostgreSQL 9.4
 ```
 
+###Description
+```
+SpringBoot based PostgreSQL JSON Type Handle Example (SpringDataJPA)
+
 ###How to Open
 ```
 IntelliJ -> Open -> Select Project Directory
