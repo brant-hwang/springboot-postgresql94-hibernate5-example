@@ -7,7 +7,7 @@ Spring Boot + SpringDataJPA + Hibernate + PostgreSQL 9.4
 
 ###How to Open
 ```
-IntelliJ -> Open -> Select Project Directorn
+IntelliJ -> Open -> Select Project Directory
 ```
 
 ###Compile Setting
