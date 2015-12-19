@@ -1,4 +1,4 @@
-Spring-Boot & JPA(Hibernate) based PostgreSQL 9.4 JSON Type Handle Example
+Spring-Boot based PostgreSQL 9.4 JSON Type Handle Example
 =======
 
 ```
